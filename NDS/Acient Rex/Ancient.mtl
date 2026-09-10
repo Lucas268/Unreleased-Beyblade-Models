@@ -1,0 +1,8 @@
+newmtl rex_mw
+Ka 0 0 0
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka rex_mw.png
+map_Kd rex_mw.png
+map_d rex_mw.png

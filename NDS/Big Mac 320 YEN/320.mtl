@@ -1,0 +1,8 @@
+newmtl TR1
+Ka 0 0 0
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka TR1.png
+map_Kd TR1.png
+map_d TR1.png

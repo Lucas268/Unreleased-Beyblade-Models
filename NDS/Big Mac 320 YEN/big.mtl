@@ -1,0 +1,8 @@
+newmtl MW_MAT
+Ka 0 0 0
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka BIG.png
+map_Kd BIG.png
+map_d BIG.png

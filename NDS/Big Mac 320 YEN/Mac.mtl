@@ -1,0 +1,8 @@
+newmtl CW_MAT
+Ka 0 0 0
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka CW_MAT.png
+map_Kd CW_MAT.png
+map_d CW_MAT.png

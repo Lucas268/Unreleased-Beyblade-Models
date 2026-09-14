@@ -1,0 +1,8 @@
+newmtl B_mat
+Ka 0 0 0
+Kd 0 0 0
+d 1
+Tr 1
+map_Ka B_mat.png
+map_Kd B_mat.png
+map_d B_mat.png
